@@ -6,7 +6,7 @@ A basic HTML `<table>` component for the [Chiasm](https://github.com/chiasm-proj
 * Expects `columns` property to be an array of objects with the following keys: `value`, `formatter`, `color`.
 
 ## TODO
-- [] Tests
-- [] Allow `formatter` and `color` functions to be optional
-- [] Expose hover and click events. Rows? Cells? Both?
-- [] Pagination?
+- [ ] Tests
+- [ ] Allow `formatter` and `color` functions to be optional
+- [ ] Expose hover and click events. Rows? Cells? Both?
+- [ ] Pagination?
